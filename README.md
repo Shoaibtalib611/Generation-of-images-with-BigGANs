@@ -20,7 +20,7 @@ This repository contains an Image Genration Model that uses deep 256x256 BigGAN 
   1. Clone the repository:
 
      ```bash
-     git clone https://github.com/ALI3Nass/Image-Generation-with-BigGANN.git
+     git clone https://github.com/Shoaibtalib611/Generation-of-images-with-BigGANs.git
 
   2. Install the required dependencies:
      ```bash
